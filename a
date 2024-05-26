@@ -1,38 +1,6 @@
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://her.otv.my.id/cubmu/drm/1920590310470725984198744639462718548768089602603381010356360544
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="MOVIE",HBO (Transcorp)
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://her.otv.my.id/cubmu/drm/1920590310470725984198744639462718548768089602603381010356360544
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title=MOVIE",HBO Hits (Transcorp)
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://her.otv.my.id/cubmu/drm/1920590310470725984198744639462718548768089602603381010356360544
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title=MOVIE",HBO Family (Transcorp)
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://her.otv.my.id/cubmu/drm/1920590310470725984198744639462718548768089602603381010356360544
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title=MOVIE",HBO Signature (Transcorp)
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://her.otv.my.id/cubmu/drm/1920590310470725984198744639462718548768089602603381010356360544
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title=MOVIE",Cinemax (Transcorp)
-https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-
-==================================================================================================================================
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://her.otv.my.id/cubmu/drm/1920590310470725984198744639462718548768089602603381010356360544
 #EXTINF:0 tvg-id="Trans TV - [Channel 87].id" tvg-name="Trans TV - [Channel 87].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1920px-Trans_TV_2013.svg.png" group-title="Lokal TRV",Trans TV TRV
 https://cdnjkt4.transvision.co.id:1004/live/master/2/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
@@ -285,26 +253,32 @@ https://cdnjkt4.transvision.co.id:1004/live/master/3/4028c6856c3db2cc016d055f43f
 #EXTINF:-1, tvg-id="Musik Indonesia" tvg-name="Musik Indonesia" group-title="Premium TRV" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857e04fca5017ec528dc550e98/f8aa04144963426fb3690cccc2c5b9ca.png" tvg-chno="161",Musik Indonesia
 https://cdnjkt4.transvision.co.id:1004/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
 
-#EXTINF:0, tvg-id="Moji" tvg-name="Moji" group-title="Lokal 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" ,MOJI SD
-http://rr3.dens.tv/s/s41/index.m3u8|User-Agent=Lavf/56.15.102
+========================================================================================================================================
 
 #EXTINF:0, tvg-id="Moji" tvg-name="Moji" group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" tvg-chno="12",MOJI 
 http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass
 
-#EXTINF:-1 group-title="Thể thao" tvg-id="premierebr" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_1280x720.jpg",???
+#EXTINF:-1 group-title="Thể thao" tvg-id="premierebr" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_1280x720.jpg", TV 2 SPORT PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
 https://ch11-hls-live.akamaized.net/out/u/433127.mpd
 
-#EXTINF:0, tvg-id="Moji" tvg-name="Moji" group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" tvg-chno="12",1?
-https://sportsonline.si/channels/pt/sporttv1.php
-https://sportsonline.si/channels/pt/sporttv2.php
-https://sportsonline.si/channels/pt/sporttv3.php
-https://sportsonline.si/channels/pt/sporttv4.php
-https://sportsonline.si/channels/pt/sporttv5.php
-https://go.now.net.eu.org/p/live?embed=bein1uni&type=m
-https://go.now.net.eu.org/p/live?embed=bein2uni&type=m
-https://go.now.net.eu.org/p/live?embed=bein3uni&type=m
-https://go.now.net.eu.org/p/live?embed=bein4uni&type=m
-https://go.now.net.eu.org/p/live?embed=spotv1my&type=m
-https://go.now.net.eu.org/p/live?embed=spotv2my&type=m
+#EXTINF:-1 group-title="Thể thao" tvg-id="premierebr" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_1280x720.jpg", PREMIER SPORT 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
+https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd
+
+#EXTINF:-1 group-title="Thể thao" tvg-id="premierebr" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_1280x720.jpg", PREMIER SPORT 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
+https://linear006-ie-dash1-prd-ak.cdn.skycdp.com/Content/DASH_003_720_120/Live/channel(premiersports2)/manifest_720.mpd
+
+#EXTINF:-1 group-title="Thể thao" tvg-id="premierebr" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_1280x720.jpg", PREMIER LEAGUE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+#EXTINF:-1 group-title="Thể thao" tvg-id="premierebr" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_1280x720.jpg", PREMIER SPORT 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
+https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd
