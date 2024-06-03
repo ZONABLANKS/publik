@@ -13,15 +13,11 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17334_stream.mpd?h
 #KODIPROP:inputstream.adaptive.license_key=3d1c52f71333f0651f9b7971eba4d6d7:5394d82a0d04a629f95b83ce6612973b
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6786_stream.mpd?hdnts=exp=1717426239~acl=/drm/dash/*~id=10165290~hmac=8e23aaa25f60afce1482a5e8fc9be5857103bb2920ea2c7912426dc30c11bcd9
 
-#EXTINF:-1 group-title="Thể thao" tvg-id="LIVE" tvg-logo="", 4
+#EXTINF:-1 group-title="Thể thao" tvg-id="LIVE" tvg-logo="", moji
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d1c52f71333f0651f9b7971eba4d6d7:5394d82a0d04a629f95b83ce6612973b
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6786_stream.mpd?hdnts=exp=1717328108~acl=/drm/dash/*~id=10165290~hmac=42827b26bcabae74a1cd28256e062e99e7937fa478f63fc71fea518f887b0eea
+#KODIPROP:inputstream.adaptive.license_key=0767b7c896ce8c94013fd2afc2f8fcd0:02419eea67ed8c966cba0e02b9506d22
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/206_stream.mpd?hdnts=exp=1717426239~acl=/drm/dash/*~id=10165290~hmac=8e23aaa25f60afce1482a5e8fc9be5857103bb2920ea2c7912426dc30c11bcd9
 
-#EXTINF:-1 group-title="Thể thao" tvg-id="LIVE" tvg-logo="", 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d158d1e56a5fd04e1365cb5d72317b45:d98e4f94d327aea0fd43e4a58dadfe3d
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/15216_stream.mpd?hdnts=exp=1714478144~acl=/drm/dash/*~id=156135710~hmac=4bc54da20dbd2db406f4da5cb5ded3b93d53fb98b66aa9f5642e8c43d3199526
 
 ========================================================================================================================================
 
