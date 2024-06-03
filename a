@@ -1,17 +1,17 @@
-#EXTINF:-1 group-title="Thể thao" tvg-id="LIVE" tvg-logo="", 1
+#EXTINF:-1 group-title="Thể thao" tvg-id="LIVE" tvg-logo="", AVC1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2caf99385fbb9debab3ed02c2686e3b5:724b79ed123fc7d61cf9174da48a85ee
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17305_stream.mpd?hdnts=exp=1717319612~acl=/drm/dash/*~id=10165290~hmac=01ae96d81f78ff879d3ce1a5128120a77b89f2a5007ac22eb95b9d8424526c2b
+#KODIPROP:inputstream.adaptive.license_key=611fb0321bc2c5cfee20ae25f8220c50:31591c3d943342de25b66c763e1d77c1
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17333_stream.mpd?hdnts=exp=1716987206~acl=/drm/dash/*~id=10165290~hmac=10d88b10fb65bfd77e6e3077776f5b7a63ab428284224f236468744baeff6496
 
-#EXTINF:-1 group-title="Thể thao" tvg-id="LIVE" tvg-logo="", 2
+#EXTINF:-1 group-title="Thể thao" tvg-id="LIVE" tvg-logo="", AVC2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0767b7c896ce8c94013fd2afc2f8fcd0:02419eea67ed8c966cba0e02b9506d22
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/206_stream.mpd?hdnts=exp=1717230345~acl=/drm/dash/*~id=10165290~hmac=aa16f1d42fcd7e7af9abbf99886d93adfd63616a9451f17d11dddfad4f17a085
+#KODIPROP:inputstream.adaptive.license_key=5d625464bb50c9b26dae60fe1654b0ba:cd34da9be2a068a1cf7ae781869837a5
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17334_stream.mpd?hdnts=exp=1717426239~acl=/drm/dash/*~id=10165290~hmac=8e23aaa25f60afce1482a5e8fc9be5857103bb2920ea2c7912426dc30c11bcd9
 
-#EXTINF:-1 group-title="Thể thao" tvg-id="LIVE" tvg-logo="", 3
+#EXTINF:-1 group-title="Thể thao" tvg-id="LIVE" tvg-logo="", CH3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b78ff2eef9b18adca8647752a35152ff:0978b199446e393a14738571e33aecfd
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17304_stream.mpd?hdnts=exp=1716735418~acl=/drm/dash/*~id=10165290~hmac=d97ca546edc60a4c34463ff87f99d9badefd65584689d4bd1e285d709b8a5cc1
+#KODIPROP:inputstream.adaptive.license_key=3d1c52f71333f0651f9b7971eba4d6d7:5394d82a0d04a629f95b83ce6612973b
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6786_stream.mpd?hdnts=exp=1717328108~acl=/drm/dash/*~id=10165290~hmac=42827b26bcabae74a1cd28256e062e99e7937fa478f63fc71fea518f887b0eea
 
 #EXTINF:-1 group-title="Thể thao" tvg-id="LIVE" tvg-logo="", 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
