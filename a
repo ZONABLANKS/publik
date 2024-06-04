@@ -8,12 +8,12 @@ https://xyssatu.pages.dev/hls/rbtv2.m3u8
 #EXTINF:-1 group-title="Thể thao" tvg-id="LIVE" tvg-logo="", AVC2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d625464bb50c9b26dae60fe1654b0ba:cd34da9be2a068a1cf7ae781869837a5
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17334_stream.mpd?hdnts=exp=1717549148~acl=%2f*~id=151549556~data=hdntl~hmac=5c049ffe2a98e90869200bdbeb35c0c02eaca39cda2903c6234f203eec777909/1717534740000
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17334_stream.mpd?hdnts=exp=1717549099~acl=/live/204/*~id=151549556~hmac=8324e996114d6fb3302d551a54be53153d5f13eacd2c98accdce2dc5e1064b9c
 
 #EXTINF:-1 group-title="Thể thao" tvg-id="LIVE" tvg-logo="", CH3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d1c52f71333f0651f9b7971eba4d6d7:5394d82a0d04a629f95b83ce6612973b
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6786_stream.mpd?hdnts=exp=1717549148~acl=%2f*~id=151549556~data=hdntl~hmac=5c049ffe2a98e90869200bdbeb35c0c02eaca39cda2903c6234f203eec777909/1717534740000
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6786_stream.mpd?hdnts=exp=1717549099~acl=/live/204/*~id=151549556~hmac=8324e996114d6fb3302d551a54be53153d5f13eacd2c98accdce2dc5e1064b9c
 
 #EXTINF:-1 group-title="Thể thao" tvg-id="LIVE" tvg-logo="", moji
 #KODIPROP:inputstream.adaptive.license_type=clearkey
