@@ -4,6 +4,7 @@
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17333_stream.mpd?hdnts=exp=1717505562~acl=/drm/dash/*~id=10165290~hmac=5ab4ae7063325359f9efd306947d6b4766cb435676357eef965622b6b2c7dded
 https://xyssatu.pages.dev/hls/rbtv1.m3u8
 https://xyssatu.pages.dev/hls/rbtv2.m3u8
+https://raw.githubusercontent.com/dandisuwo/vidio1/main/kontolkaufhd.m3u8
 
 #EXTINF:-1 group-title="Thể thao" tvg-id="LIVE" tvg-logo="", AVC2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
