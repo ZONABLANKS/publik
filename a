@@ -1,10 +1,9 @@
 #EXTINF:-1 group-title="Thể thao" tvg-id="LIVE" tvg-logo="", AVC1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=611fb0321bc2c5cfee20ae25f8220c50:31591c3d943342de25b66c763e1d77c1
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17333_stream.mpd?hdnts=exp=1717505562~acl=/drm/dash/*~id=10165290~hmac=5ab4ae7063325359f9efd306947d6b4766cb435676357eef965622b6b2c7dded
+https://etslive-v3-vidio-com-tokenized.akamaized.net/live/17252/master.m3u8?hdnts=exp=1717765180~acl=/live/17252/*~id=158299671~hmac=4fef5cc21abd839f8155d07242b6849de09e55266c19096135796e89f1b5f5f27063325359f9efd306947d6b4766cb435676357eef965622b6b2c7dded
 https://xyssatu.pages.dev/hls/rbtv1.m3u8
 https://xyssatu.pages.dev/hls/rbtv2.m3u8
-https://raw.githubusercontent.com/dandisuwo/vidio1/main/kontolkaufhd.m3u8
 
 #EXTINF:-1 group-title="Thể thao" tvg-id="LIVE" tvg-logo="", AVC2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
