@@ -20,7 +20,8 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6786_stream.mpd?hd
 #KODIPROP:inputstream.adaptive.license_key=0767b7c896ce8c94013fd2afc2f8fcd0:02419eea67ed8c966cba0e02b9506d22
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/206_stream.mpd?hdnts=exp=1717505562~acl=/drm/dash/*~id=10165290~hmac=5ab4ae7063325359f9efd306947d6b4766cb435676357eef965622b6b2c7dded
 
-
+#EXTINF:-1 group-title="Thể thao" tvg-id="LIVE" tvg-logo="", FIFA+
+https://m3u-editor.com/live/serve/e46bc590-6c47-11ed-b6c8-d1f1f0221890/698009749.m3u8
 ========================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="SPORTS", TNT Sports 1
