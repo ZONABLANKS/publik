@@ -1,3 +1,8 @@
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
+#EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://cdn.ksa.my.id/mncsports.png" group-title="Sports",SPORTSTAR 3
+https://xxx.freemiumiptv.top/mnclokal/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
 #EXTINF:-1 group-title="Thể thao" tvg-id="LIVE" tvg-logo="", AVC1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=611fb0321bc2c5cfee20ae25f8220c50:31591c3d943342de25b66c763e1d77c1
