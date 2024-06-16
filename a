@@ -118,3 +118,8 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-031/stream.mpd?p=web
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-032/stream.mpd
+
+#EXTINF:-1 group-title="DAZN" tvg-id="premierebr" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_1280x720.jpg", MLS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a46085983273745aa08c55f94fe015d:a052ab82ff84f9f6616557fc43434d48
+https://apel.xyssatuu.workers.dev/linear-ak-p-har3.tv.apple.com/Content/HLS_CBC/Live/channel(mls.ec3.us_en_hren_2)/index.m3u8
