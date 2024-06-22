@@ -1,7 +1,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40dbb569b90b5c7798f63ed6d7577ccb:4ea09395289d3c2e633f24f07c180169
 #EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://cdn.ksa.my.id/mncsports.png" group-title="Sports",bein 2
-https://bein-apac-live.akamaized.net/bein/sea_bein_sports_02/sea_bein_sports_02.isml/playlist.mpd?hdnts=st=-62135596800~exp=1719060360~acl=/*~id=VID_rJHu7MJKFCZQOW6DioIrknYonzAE~hmac=11a7e9c6e63ff93eeaefae577b7a2512dc01abb9b39f6662135b4680dc209129
+https://bein-apac-live.akamaized.net/bein/sea_bein_sports_02/sea_bein_sports_02.isml/playlist.mpd?hdnts=st=-62135596800~exp=1719150087~acl=/*~id=VID_rJHu7MJKFCZQOW6DioIrknYonzAE~hmac=f14c736eafd0073d0e8278d4b9cc7039115f4256cdd3028f5e8d5b8613765984
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=1c983e5a03b0f8adde686ef20497e2b4:f7b1d6556850b472f4f683519f4e41f7
