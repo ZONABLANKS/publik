@@ -32,6 +32,11 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/206_stream.mpd?hdn
 
 #EXTINF:-1 group-title="Thể thao" tvg-id="LIVE" tvg-logo="", FIFA+
 https://m3u-editor.com/live/serve/e46bc590-6c47-11ed-b6c8-d1f1f0221890/706976543.m3u8
+
+#EXTINF:-1 group-title="Thể thao" tvg-id="LIVE" tvg-logo="", VNL
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp.m3u8
+https://xyssatu.pages.dev/hls/vnlch1.m3u8
+https://xyssatu.pages.dev/hls/vnlch2.m3u8
 ========================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.jpg", tvg-id="ksport1hd" group-title="SPORTS", TNT Sports 1
