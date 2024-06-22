@@ -138,6 +138,11 @@ https://apel.xyssatuu.workers.dev/linear-ak-p-har3.tv.apple.com/Content/HLS_CBC/
 https://xyssatu.pages.dev/hls/ttfhd.m3u8
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
 
+#EXTINF:-1 group-title="DAZN" tvg-id="premierebr" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_1280x720.jpg", COPA 0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10f7768b8eb5be6d48c1baaf1fb891a1:9b029683d78a43cb9e8738f17220c37e,31599f01aa4da9cdd75711f495279e27:a68ca2b689516982cb543a9a60f53263,5eaecc5806202cba6d013a3b02343132:e4b85f440f4b55a71423e3440787e4e9,a4f4e148746e46bc401891571abeb0ca:29598f41d1cca4db6288430ad065f09a
+https://pe-fa-lp01a.9c9media.com/live/CFTO/p/dash/20000001/9117ec94ec99c195/manifest.mpd
+
 #EXTINF:-1 group-title="DAZN" tvg-id="premierebr" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000288_IVP_LAND_1280x720.jpg", COPA 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaecc5806202cba6d013a3b02343132:e4b85f440f4b55a71423e3440787e4e9,a4f4e148746e46bc401891571abeb0ca:29598f41d1cca4db6288430ad065f09a
