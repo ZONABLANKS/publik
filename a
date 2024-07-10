@@ -29,7 +29,6 @@ https://apel.xyssatuu.workers.dev/linear-ak-p-har3.tv.apple.com/Content/HLS_CBC/
 #EXTVLCOPT:user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://cikguandhiottoloveizzat.ben44mcc.workers.dev/Fox_Sports_1_Live_TV/index.m3u8
 
-#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRCIX-Uv6BbCdFe4hpg5BYbCVbhdVLQZUQw&usqp=CAU", COPA AMERICA - FS1
-#EXTVLCOPT:http-referrer=https://player.goupnow.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko)
-https://vipgoodlive-tvs.starcdn.live/Fox_Sports_1_Live_TV/index.m3u8?tokenkey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcGNsaWVudCI6IjUuMTgyLjIwOS4xMTIiLCJ1cmxzdHJlYW0iOiJodHRwczovL2xpdmVfdHYuc3RhcmNkbnVwLmNvbS9Gb3hfU3BvcnRzXzFfTGl2ZV9UVi9pbmRleC5tM3U4Iiwid2Vic2l0ZSI6Imh0dHBzOi8vYmVlc3BvcnQubmV0L2F1dGhvcml6ZS1jaGFubmVsIiwiaXNWSVAiOiIwIiwiZXhwIjoxNzE4NTY5MDc4fQ.UK1L8YSJdAH6W0FVBeKKxBNBT6OnbcrHL_xJzjukAqc&ref=https://beesport.net/
+#EXTINF:-1 tvg-id="CHN" group-title="INFO" ch-number="1003" tvg-logo="https://aqfadtv.xyz/images/AqFadTV.png",fs1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://cikguandhiottoloveizzat.ben44mcc.workers.dev/Fox_Sports_1_Live_TV/index.m3u8
