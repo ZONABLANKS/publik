@@ -24,9 +24,8 @@ https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/mas
 #EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://cdn.ksa.my.id/mncsports.png" group-title="Sports",MLS
 https://apel.xyssatuu.workers.dev/linear-ak-p-har3.tv.apple.com/Content/HLS_CBC/Live/channel(mls.ec1.us_en_hren_1)/index.m3u8
 
-#EXTINF:-1 group-title="MAYANG TV LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNRCIX-Uv6BbCdFe4hpg5BYbCVbhdVLQZUQw&usqp=CAU", COPA AMERICA - FS11
-#EXTVLCOPT:http-referrer=https://player.goupnow.net/
-#EXTVLCOPT:user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="AstroSupersport3" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="813" tvg-logo="https://aqfadtv.xyz/logos/AstroSuperSport3.png",813 Astro SuperSport 3 
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://streamservicehd.click&referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=43&user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://cikguandhiottoloveizzat.ben44mcc.workers.dev/Fox_Sports_1_Live_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="CHN" group-title="INFO" ch-number="1003" tvg-logo="https://aqfadtv.xyz/images/AqFadTV.png",fs1
