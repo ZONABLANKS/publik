@@ -1,6 +1,4 @@
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40dbb569b90b5c7798f63ed6d7577ccb:4ea09395289d3c2e633f24f07c180169
-#EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://cdn.ksa.my.id/mncsports.png" group-title="Sports",bein 2
+#EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://cdn.ksa.my.id/mncsports.png" group-title="Sports",prolugA
 https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17252_1080p/hdntl=exp=1720706810~acl=%2f*~id=161176528~data=hdntl~hmac=1ad4458ef9c5ca3ed40d0808a7a834f60cb955e5f989d8a221b5a655dfe63bb6/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
