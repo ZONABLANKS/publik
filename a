@@ -1,7 +1,13 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40dbb569b90b5c7798f63ed6d7577ccb:4ea09395289d3c2e633f24f07c180169
 #EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://cdn.ksa.my.id/mncsports.png" group-title="Sports",bein 2
-https://bein-apac-live.akamaized.net/bein/sea_bein_sports_02/sea_bein_sports_02.isml/playlist.mpd?hdnts=st=-62135596800~exp=1712565319~acl=/*~id=VID_NsuHBGULQokzC0SxhzlEtv6xosAE~hmac=9285a502d1cdf9a109ccadb80ef1e0e33a02cd938ae6b3ee49764f490c2204d9
+https://raw.githubusercontent.com/dandisuwo/vidio1/main/kontolkaufhd.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 CUID="15" tvg-name="INewsTV" tvg-id="inews.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.exe" group-title="Lokal HD",INewsTV
+https://raw.githubusercontent.com/dandisuwo/vidio1/main/kontolkaufhd.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c983e5a03b0f8adde686ef20497e2b4:f7b1d6556850b472f4f683519f4e41f7
