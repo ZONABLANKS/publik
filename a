@@ -24,8 +24,9 @@ https://skytest.starlive.workers.dev/https://linear001-ie-dash1-prd-cf.cdn.skycd
 https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f6a7338f0130c98c8d98e9a350b987:0de48627d67af7933fe142801af70d67
+#KODIPROP:inputstream.adaptive.license_key=b5874021e33f49d4dac5cd55344b0d74:7b49f3eecf4e9336ffdb9a549d2ee781
 #EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://cdn.ksa.my.id/mncsports.png" group-title="Sports",MLS
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?hdnts=exp=1721230574~acl=/drm/dash/*~id=161176528~hmac=e3d22658a091d7a8f8909374d589a5d9e860c1d00a3e1775d6fbf2683d2fd554
 https://pidioh.ben44mcc.workers.dev/https://obevcimanyd179569584.thapcam.link/oS2wbu0PM02e9ya_4J5H_A/Fv2lucGIbhPi2caWYvF5Lg/1721239360022/live/Z1FHD/chunklist.m3u8
 https://pidioh.ben44mcc.workers.dev/https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjEyMzkzNjAsInVyaSI6Ii9aMUhEIiwiaWF0IjoxNzIxMjE3NzYwfQ.GMpTU3S50ZgEKAssg_gfdQy7wGeG5udEsNEz3X1tdgA-/Z1HD/chunks.m3u8
 
