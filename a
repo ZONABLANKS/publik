@@ -1,12 +1,3 @@
-#EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://cdn.ksa.my.id/mncsports.png" group-title="Sports",prolugA
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17252_1080p/hdntl=exp=1720706810~acl=%2f*~id=161176528~data=hdntl~hmac=1ad4458ef9c5ca3ed40d0808a7a834f60cb955e5f989d8a221b5a655dfe63bb6/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 CUID="15" tvg-name="INewsTV" tvg-id="inews.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.exe" group-title="Lokal HD",INewsTV
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_17252_1080p/hdntl=exp=1720706810~acl=%2f*~id=161176528~data=hdntl~hmac=1ad4458ef9c5ca3ed40d0808a7a834f60cb955e5f989d8a221b5a655dfe63bb6/index.m3u8
-
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c983e5a03b0f8adde686ef20497e2b4:f7b1d6556850b472f4f683519f4e41f7
 #EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://cdn.ksa.my.id/mncsports.png" group-title="Sports",bein 2 MY
@@ -30,10 +21,5 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?h
 https://pidioh.ben44mcc.workers.dev/https://obevcimanyd179569584.thapcam.link/oS2wbu0PM02e9ya_4J5H_A/Fv2lucGIbhPi2caWYvF5Lg/1721239360022/live/Z1FHD/chunklist.m3u8
 https://pidioh.ben44mcc.workers.dev/https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjEyMzkzNjAsInVyaSI6Ii9aMUhEIiwiaWF0IjoxNzIxMjE3NzYwfQ.GMpTU3S50ZgEKAssg_gfdQy7wGeG5udEsNEz3X1tdgA-/Z1HD/chunks.m3u8
 
-#EXTINF:-1 tvg-id="AstroSupersport3" group-title="Sports" group-logo="https://aqfadtv.xyz/images/sports1.png" ch-number="813" tvg-logo="https://aqfadtv.xyz/logos/AstroSuperSport3.png",813 Astro SuperSport 3 
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://streamservicehd.click&referer=https://streamservicehd.click/premiumtv/daddyhd.php?id=43&user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://cikguandhiottoloveizzat.ben44mcc.workers.dev/Fox_Sports_1_Live_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="CHN" group-title="INFO" ch-number="1003" tvg-logo="https://aqfadtv.xyz/images/AqFadTV.png",fs1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-https://cikguandhiottoloveizzat.ben44mcc.workers.dev/Fox_Sports_1_Live_TV/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+
