@@ -24,4 +24,7 @@ https://pidioh.ben44mcc.workers.dev/https://live-kh-1123898219.thapcam.link/-eyJ
 #EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://cdn.ksa.my.id/mncsports.png" group-title="Sports",MLS
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1721403158~acl=/drm/dash/*~id=161176528~hmac=adb4dd46005f9be8bc36154625ad8704ef06ea07353502c3cb1862487e041456|User-Agent=Mozilla/5.0&drmScheme=clearkey&drmLicense=849e66e2deb224ddee3c8edee8b9be61:f55a0747fd676c19cbe97cc677429d94
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f6a7338f0130c98c8d98e9a350b987:0de48627d67af7933fe142801af70d67
+#EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://cdn.ksa.my.id/mncsports.png" group-title="Sports",APPLE1
+https://apel.xyssatuu.workers.dev/linear-ak-p-har3.tv.apple.com/Content/HLS_CBC/Live/channel(mls.ec3.us_en_hren_1)/12.m3u8|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
