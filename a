@@ -15,8 +15,8 @@ https://skytest.starlive.workers.dev/https://linear001-ie-dash1-prd-cf.cdn.skycd
 https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=13e513ca807008120246b46838272c26:e392b41821e6e3a3d0426d1efb43df9f
-#EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://cdn.ksa.my.id/mncsports.png" group-title="Sports",INDOSIAR
+#KODIPROP:inputstream.adaptive.license_key=5317d7779d58776206ba8705afd4f99f:a0f1d977065726f60688a0664bc1e7de
+#EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://cdn.ksa.my.id/mncsports.png" group-title="Sports",moji
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd?hdnts=exp=1721749649~acl=/drm/dash/*~id=155691731~hmac=c4011a9d016f1d15f5ec39c5d63b79e4440a3ecb7f3bc1d341329558b08700b9
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
