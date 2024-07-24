@@ -17,7 +17,7 @@ https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/mas
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5317d7779d58776206ba8705afd4f99f:a0f1d977065726f60688a0664bc1e7de
 #EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://cdn.ksa.my.id/mncsports.png" group-title="Sports",moji
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17585_stream.mpd?hdnts=exp=1721749649~acl=/drm/dash/*~id=155691731~hmac=c4011a9d016f1d15f5ec39c5d63b79e4440a3ecb7f3bc1d341329558b08700b9
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17599_stream.mpd?hdnts=exp=1721833965~acl=/drm/dash/*~id=161176528~hmac=e0e588c450063e8b693ecc5833ebc450b5bb6a2a5b20869ebee01595b415f6ae
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5874021e33f49d4dac5cd55344b0d74:7b49f3eecf4e9336ffdb9a549d2ee781
