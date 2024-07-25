@@ -24,6 +24,16 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17599_stream.mpd?h
 #EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://cdn.ksa.my.id/mncsports.png" group-title="Sports",SCTV
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?hdnts=exp=1721749649~acl=/drm/dash/*~id=155691731~hmac=c4011a9d016f1d15f5ec39c5d63b79e4440a3ecb7f3bc1d341329558b08700b9
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ea341672cbdab3dd779977800766db2:4399f8fca9eaf3467d70d91eb070e1d6
+#EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://cdn.ksa.my.id/mncsports.png" group-title="Sports",SCTV 2
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17579_stream.mpd?hdnts=exp=1721906592~acl=/drm/dash/*~id=161176528~hmac=ea26a3fe563e0e5fe47e5c0c29113364525b617203cf95ef12cde89cbef939e0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bbd51d0ae4ea4b6b838dbd6221d0a35f:774a28be201d5cda42f807f34cf93f21
+#EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://cdn.ksa.my.id/mncsports.png" group-title="Sports",indosiar
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1721911068~acl=/drm/dash/*~id=161176528~hmac=b5441ef2038b4e2289c41b61dea360efacc8a0451dd591399a3beea6496b881c
+
 https://xplayns.xyssatuu.workers.dev/xPLAY.mpd?id=pidio&ch=17585&exp=1721662276&hmac=6cd7d7bc362f3be52231857fe1cd02541f65161cce89f179c2c0ecc6ccb2994f
 https://pidioh.ben44mcc.workers.dev/https://obevcimanyd179569584.thapcam.link/oS2wbu0PM02e9ya_4J5H_A/Fv2lucGIbhPi2caWYvF5Lg/1721239360022/live/Z1FHD/chunklist.m3u8
 https://pidioh.ben44mcc.workers.dev/https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjEyMzkzNjAsInVyaSI6Ii9aMUhEIiwiaWF0IjoxNzIxMjE3NzYwfQ.GMpTU3S50ZgEKAssg_gfdQy7wGeG5udEsNEz3X1tdgA-/Z1HD/chunks.m3u8
