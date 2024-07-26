@@ -37,7 +37,7 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17579_stream.mpd?h
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bbd51d0ae4ea4b6b838dbd6221d0a35f:774a28be201d5cda42f807f34cf93f21
 #EXTINF:0 tvg-id="MNCSports.Id" tvg-logo="https://cdn.ksa.my.id/mncsports.png" group-title="Sports",indosiar
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1721996793~acl=/drm/dash/*~id=161176528~hmac=d53fe759866eb174be940905ba963fb004270d398e53a1f11f68ee9423bb5f11
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17584_stream.mpd?hdnts=exp=1721996793~acl=/drm/dash/*~id=161176528~hmac=d53fe759866eb174be940905ba963fb004270d398e53a1f11f68ee9423bb5f11|User-Agent=VidioPlayer/6.33.10
 
 https://xplayns.xyssatuu.workers.dev/xPLAY.mpd?id=pidio&ch=17585&exp=1721662276&hmac=6cd7d7bc362f3be52231857fe1cd02541f65161cce89f179c2c0ecc6ccb2994f
 https://pidioh.ben44mcc.workers.dev/https://obevcimanyd179569584.thapcam.link/oS2wbu0PM02e9ya_4J5H_A/Fv2lucGIbhPi2caWYvF5Lg/1721239360022/live/Z1FHD/chunklist.m3u8
