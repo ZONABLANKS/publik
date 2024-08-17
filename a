@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="", tvg-id="ksport1hd" group-title="USA
+#EXTINF:-1 tvg-logo="", tvg-id="ksport1hd" group-title="SPORTS",USA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
