@@ -1,2 +1,7 @@
-
+#EXTINF:-1 tvg-logo="", tvg-id="" group-title="SPORTS", MOJI
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45dad2f3803ebdfaa28a4bbc5688fb31:3fafccf657bdd9adb9dc9df593e93890
+-vidio-com-tokenized.akamaized.net/drm/dash/17637_stream.mpd?hdntl=exp=1724427424~acl=%2f*~id=161176528~data=hdntl~hmac=92506ffb26774ea438d85f6677bf5717f8f8223d16e488100b6c72dd646c0efd
 
