@@ -3,5 +3,5 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45dad2f3803ebdfaa28a4bbc5688fb31:3fafccf657bdd9adb9dc9df593e93890
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17637_stream.mpd?hdntl=exp=1724499484~acl=%2f*~id=161176528~data=hdntl~hmac=61c01d0e0b9a241889b1ac75ee34c6cca48496c99ae4cb0ae924822c6026e392
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17637_stream.mpd?hdntl=exp=1724600048~acl=%2f*~id=161176528~data=hdntl~hmac=d62019aa1765287b468956c0fb2c85cfcc980020c5a83278ad053a32c5aac6d7
 
