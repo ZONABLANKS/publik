@@ -1,7 +1,7 @@
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png", tvg-id="ksport1hd" group-title="SPORTS", MOJI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png", tvg-id="ksport1hd" group-title="SPORTS", ++
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f6a7338f0130c98c8d98e9a350b987:0de48627d67af7933fe142801af70d67
-https://apel.xyssatuu.workers.dev/linear-ak-p-har3.tv.apple.com/Content/HLS_CBC/Live/channel(mls.ec1.us_en_hren_7)/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=42d6b9c054d8b68053e053e24ec2b476:03ad7bfc7baddd70ca69107410b707a8
+https://bein-apac-live.akamaized.net/bein/bein_sports_vflow20/bein_sports_vflow20.isml/playlist.mpd?hdnts=st=1586822400~exp=1726748064~acl=/*~id=VID_TGiolrbbNdhPY9Vhet2SFaEJ4oIE~hmac=f706eb4bf286e15a65b89aa146bc2ddfe66546d7541b9d673688583e6a7fd3c6
 
