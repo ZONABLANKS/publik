@@ -1,26 +1,8 @@
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png", tvg-id="ksport1hd" group-title="SPORTS", ++
+#EXTINF:-1 tvg-logo="https://i.ibbBein-1.png", tvg-id="ksport1hd" group-title="SPORTS", ++
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=42d6b9c054d8b68053e053e24ec2b476:03ad7bfc7baddd70ca69107410b707a8
-https://bein-apac-live.akamaized.net/bein/bein_sports_vflow20/bein_sports_vflow20.isml/playlist.mpd?hdnts=st=1586822400~exp=1726748064~acl=/*~id=VID_TGiolrbbNdhPY9Vhet2SFaEJ4oIE~hmac=f706eb4bf286e15a65b89aa146bc2ddfe66546d7541b9d673688583e6a7fd3c6
+#KODIPROP:inputstream.adaptive.license_key=53ac8e7c798f32280f42c25f04e1bf53:3115f4ccf41206451337fd3a030aabf1
+https://bein-apac-live.akamaized.net/bein/bein_sports_vflow02/bein_sports_vflow02.isml/playlist.mpd?hdnts=st=1586822400~exp=1726851110~acl=/*~id=VID_TGiolrbbNdhPY9Vhet2SFaEJ4oIE~hmac=fd3039a3f13674d0fdafa4e21bd5d88127b2735e6eef8174f789da45e90e0938
 
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="Sports",MNC Sports 3 (Sportstars 3)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09e485dc574b42c8a957b1499e16daf9:68ca23824f51cc9a3095ff7d5be2e07e
-https://vp3.xyssatuu.workers.dev/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_424.png" group-title="Sports",MNC Sports 4 (Sportstars 4)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f0b57dddeee94e77a09face67fc7a03b:76ac34fb91121d2f440db8f4808c8060
-https://vp1.xyssatuu.workers.dev/out/v1/3654ca35e72440b6aaa897fd36231191/index.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="Sports",MNC Sports 4 (Sportstars 3)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0bea88ab972e06760a04712cc423d841:4039d607f88f1b1f677e4beb6ee66637
-https://cempedak-cdn-fly.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd|Referer=https://www.visionplus.id/
-
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_424.png" group-title="Sports",MNC Sports  (Sportstars 4)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec26e7e1b0974ec3837d0407d40d70e7:ce42197e5f05fd81975dd30fe6f115c9
-https://ss4-xplay.xyssatuu.workers.dev/index.mpd|Referer=https://www.visionplus.id/
