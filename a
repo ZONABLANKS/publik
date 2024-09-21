@@ -4,6 +4,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40dbb569b90b5c7798f63ed6d7577ccb:4ea09395289d3c2e633f24f07c180169
 #EXTVLCOPT:http-referrer=https://pisionx.pages.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
 https://bein-apac-live.akamaized.net/bein/sea_bein_sports_02/sea_bein_sports_02.isml/playlist.mpd?hdnts=st=1586822400~exp=1727000841~acl=/*~id=VID_TGiolrbbNdhPY9Vhet2SFaEJ4oIE~hmac=2875fdb37456b16e7579139046172347c09d4897d93e3d7cecbdfe795f626578
 
 
