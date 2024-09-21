@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="https://i.ibbBein-1.png", tvg-id="ksport1hd" group-title="SPORTS", ++
+#EXTINF:-1 tvg-logo="https://i.ibbBein-1.png", tvg-id="ksport1hd" group-title="SPORTS", +
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
