@@ -4,3 +4,10 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40dbb569b90b5c7798f63ed6d7577ccb:4ea09395289d3c2e633f24f07c180169
 https://bein-apac-live.akamaized.net/bein/sea_bein_sports_02/sea_bein_sports_02.isml/playlist.mpd?hdnts=st=1586822400~exp=1727000841~acl=/*~id=VID_TGiolrbbNdhPY9Vhet2SFaEJ4oIE~hmac=2875fdb37456b16e7579139046172347c09d4897d93e3d7cecbdfe795f626578
+
+#EXTINF:-1 tvg-logo="https://i.ibbBein-1.png", tvg-id="ksport1hd" group-title="SPORTS", +3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=593edd2912434726a09a364bb36a75aa:0b24cd6986b58823d2b77ed7ee4fab9b
+https://vpns.xyssatuu.workers.dev/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd?xplay=3|User-Agent=Mozilla/5.0
