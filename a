@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-logo="https://i.ibbBein-1.png", tvg-id="ksport1hd" group-title="SPORTS", ++
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9b364399ebb9a118f63b048fae023341:7bb6fd9b5e2db5941b2734ced0a7c495
-https://bein-apac-live.akamaized.net/bein/indo_bein_sports_01/indo_bein_sports_01.isml/playlist.mpd?hdnts=st=1586822400~exp=1727000841~acl=/*~id=VID_TGiolrbbNdhPY9Vhet2SFaEJ4oIE~hmac=2875fdb37456b16e7579139046172347c09d4897d93e3d7cecbdfe795f626578
+#KODIPROP:inputstream.adaptive.license_key=40dbb569b90b5c7798f63ed6d7577ccb:4ea09395289d3c2e633f24f07c180169
+https://bein-apac-live.akamaized.net/bein/sea_bein_sports_02/sea_bein_sports_02.isml/playlist.mpd?hdnts=st=1586822400~exp=1727000841~acl=/*~id=VID_TGiolrbbNdhPY9Vhet2SFaEJ4oIE~hmac=2875fdb37456b16e7579139046172347c09d4897d93e3d7cecbdfe795f626578
 
