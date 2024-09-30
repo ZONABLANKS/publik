@@ -3,7 +3,7 @@
 #KODIPROP:inputstream.adaptive.license_key=66bf64ad887b83f5dcf0351645e81f80:ca1895099b697d3c36f734056daa6b67
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17904_stream.mpd?hdntl=exp=1727623480~acl=%2fdrm%2fdash%2f17904*~id=166313872~data=hdntl~hmac=5536991a7b327babfaa9f9b78d4d642a79f210bd68d648e95e228990728c2212|User-Agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png", tvg-id="ksport1hd" group-title="SPORTS", BEIN 2 vis
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png", tvg-id="ksport1hd" group-title="SPORTS", BEIN 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
