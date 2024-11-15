@@ -1,2 +1,4 @@
-#EXTINF:0 tvg-logo="" group-title=".",...
+#EXTINF:0 tvg-logo="" group-title=".",@@@
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f168568bfe5e5458106b6f4376a259aa:caca968e078f9c11b3ce58407a2b4dda
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17994_stream.mpd?hdntl=exp=1731668063~acl=%2fdrm%2fdash%2f17994*~id=167737729~data=hdntl~hmac=e19e1fc89a91c18b3d82a62029fe06985c5a3fcf5355912abf35e70a3bc370b3|User-Agent=Mozilla/5.0%20loh&drmScheme=clearkey&drmLicense=f168568bfe5e5458106b6f4376a259aa:caca968e078f9c11b3ce58407a2b4dda
