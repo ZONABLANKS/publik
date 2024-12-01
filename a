@@ -6,12 +6,12 @@
 #KODIPROP:inputstream.adaptive.license_key=e664e18c789acf018b8e2153336781d1:090c081c13d7811a8e147797c54a9b43
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17623_stream.mpd?hdntl=exp=1733053179~acl=/drm/dash/17623*~id=167880549~data=hdntl~hmac=397f96235c37a225625380ab08bfd22a118b7237fb3bb3d401d76603ac66cff2
 
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-id="INDOSIAR" tvg-logo="https://thumbor.prod.vidiocdn.com/7t4SyZCdOGx91fHm0b13T0_LbAo=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/27013/psis-semarang-vs-semen-padang-fc-c7c5a6.jpg",  15:30 PSIS SEMARANG VS SEMEM PADANG
+#EXTINF:-1 group-title="BRI LIGA 1" tvg-id="INDOSIAR" tvg-logo="https://thumbor.prod.vidiocdn.com/7t4SyZCdOGx91fHm0b13T0_LbAo=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/27013/psis-semarang-vs-semen-padang-fc-c7c5a6.jpg",  15:30 PSIS VS SEMEM PADANG
 #EXTVLCOPT:http-referrer=https://m.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c63ef11648fcdd4ad4ea91c1effa91ba:8ecf85e6b1c663162e3f584d111ea30e
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17622_stream.mpd?hdntl=exp=1733053325~acl=/drm/dash/17622*~id=167880549~data=hdntl~hmac=783a66c55278b79bd62908f8a49df59e84e48e281eb4fc529deabdcaa9e6cc88
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17622_stream.mpd?hdntl=exp=1733053325~acl=%2fdrm%2fdash%2f17622*~id=167880549~data=hdntl~hmac=783a66c55278b79bd62908f8a49df59e84e48e281eb4fc529deabdcaa9e6cc88
 
 
 
