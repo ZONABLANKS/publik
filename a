@@ -1,5 +1,11 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bn-1.png", tvg-id="ksport1hd" group-title="SPORTS", Sport
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/18234/master.m3u8?hdnts=exp=1740238552~acl=/live/18234/master.m3u8!/hls-p/ingest_18234*/*!/hls-b/ingest_18234*/*~id=174692389~hmac=6287e8969fd49f5f285be711b77749671ec18d181f01bea991df6124d60b0dfa
+https://dko29we9nm1rd.cloudfront.net/hls/CH622/index.m3u8
+https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
+https://dko29we9nm1rd.cloudfront.net/hls/CH633/index.m3u8
+https://dko29we9nm1rd.cloudfront.net/hls/CH634/index.m3u8
+https://dko29we9nm1rd.cloudfront.net/hls/CH635/index.m3u8
+https://dko29we9nm1rd.cloudfront.net/hls/CH636/index.m3u8
+https://dko29we9nm1rd.cloudfront.net/hls/CH637/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dnl.tntsports.co.uk/sd/img/structured-data/tntsports.exe", tvg-id="ksport1hd" group-title="SPORTS", ziggo Sport 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
