@@ -1,5 +1,3 @@
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
+
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://alkhalifitv.github.io/TV/big/inews.png" group-logo="https://alkhalifitv.github.io/TV/logo/group/berita.png" group-title="BERITA",INEWS
-https://cempedak-cdn-fly.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
+https://windnew.newkso.ru/wind/premium453/mono.m3u8|Referer=https://ilovetoplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
