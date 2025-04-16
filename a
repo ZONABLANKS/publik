@@ -1,4 +1,5 @@
-#EXTINF:0 tvg-logo="hilang.comchannel/tvone.png" group-title="INDONESIA",Coco
+#EXTINF:-1 group-title="NASIONAL" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/NTYY97h.jpeg",iNews 2 ON
+#EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
-https://su00yous2-cf.tikballaa.com/auth%3D9dd692048e6907412a4d8075e992a7089df4ffbe640ba51e2e4c2d5fcfdce6098807665edcf6cdb2f77e90121da5dc85385740787fe10f351b1daee6915f74ff2534f0b0b3f7a6c68a2849990ec0059f2e9e532fabbe156aaa9dc471ce8c5bcb44f6f6eee1b6b083f6f199387829ae5a0808355cb0a69c5877d28383fb5eb6b23dc074719dcbba84c3df479a144b9748cc6e29a6180cd54dc06335dbe711890b%26cid%3D1KOoJBNdA3rKxJipkKDN-250407%26_v%3D2%26_r%3DvT4DCf%26_vis%3D27623cd5989e6edfa884e0e39282206a90e5d40a45c9de711ddb4bb06719401a%26_vvs%3D3367d1bc92c06c628ebc9c231dd4121774a6078d2b706fc731c781581544ac71/app/c337394.m3u8|Referer=https://ppdd02.xiimadedishalthough.shop/swplayer.js|User-Agent=Mozilla/5.0 (Linux; Android 10; Redmi 8 Build/QKQ1.191014.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4280.101 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
+https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
