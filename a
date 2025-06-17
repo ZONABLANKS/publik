@@ -1,19 +1,26 @@
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="OLAHRAGA",SportTV1br
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",00:00 Boca Juniors - Benfica 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=53a369523219c230299aafb223d62147:e898509983bbf4918bd1883166c055f4
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xjjwlsad4u/out/v1/bd0d120a5bd14d278f32c89735a7ffc5/cenc.mpd|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
 
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="OLAHRAGA",SportTVsdbr
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",03:00 Flamengo - ES Tunis 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14: 8d42db746ed0c4df61729b0d68d42bd7
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
 
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="OLAHRAGA",SportTV2br
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",21:00 River Plate - Urawa Reds 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4fd565afa01318927c67efcf162d0862:a74100562d8e9d9d2a9ed19f91f8e9d5
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/gxxj3snihc/out/v1/253a523ce23e4646a8af55e2ea9e365f/cenc-sd.mpd|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
 
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="OLAHRAGA",SportTV3br
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfc3fe9d7b2212db44dffc59521e2ea5:2a623cac1a605a9315cf441dd67f2032
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hdjoqksgtf/out/v1/f3e3b9eeb94e4b96ad3f214603ff261b/cenc-sd.mpd|user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CALCIO",21:00 Spagna U.21 - Italia U.21 
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EXTRA",Live 
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EXTRA",Live 
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EXTRA",Live 
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/silive24/chunklist.m3u8
