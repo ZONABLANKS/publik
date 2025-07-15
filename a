@@ -3,68 +3,12 @@
 #EXTINF:-1 tvg-id="tvOne.my.id" tvg-name="TVOne" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501492_tvchannels_v1.jpg" group-title="NASIONAL", TVONE
 https://cnt1-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
 
-<=================== EVENT 1 =============================>
-
-#EXTINF:-1 group-title="EVENT 15/JULI/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", 17:00 WIB Malaysia vs Filipina
-#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel4.flv?wsSecret=2cbb55a6cae5cc3241c389ff439f592f&wsABSTime=1752474518
-
-
-#EXTINF:-1 group-title="EVENT 15/JULI/2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", 17:00 WIB Malaysia vs Filipina
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/-kGjIn3bMa1qZLkv-zp5lQ/Fv2lucGIbhPi2caWYvF5Lg/1752593959314/live/may211/chunklist.m3u8
-https://hotlivezz179602324.akainu.xyz/Fp5tF3yfyh9SwpSlLAaeGA/Fv2lucGIbhPi2caWYvF5Lg/1752585002177/live/dungSD/chunklist.m3u8
-
-
-
-
-<=================== EVENT 2 =============================>
-
-#EXTINF:-1 group-title="EVENT 16/JULI/2025" tvg-logo="https://context.id/images-data/2024/03/05/champ.jpg", 01:30 WIB Inter Club d'Escaldes vs FCSB
-#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel6.flv?wsSecret=7fa686119883da71a0751cf77708c086&wsABSTime=1752609969
-
-
-<=================== Cadangan =============================>
-
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 [15 - 29 Juli 2025] 1
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/-kGjIn3bMa1qZLkv-zp5lQ/Fv2lucGIbhPi2caWYvF5Lg/1752593959314/live/may211/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 [15 - 29 Juli 2025] 2
-#EXTVLCOPT:http-origin=https://xlz.plcdn.xyz
-#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://live1.pro2cdnlive.com/live/channel4.flv?wsSecret=2cbb55a6cae5cc3241c389ff439f592f&wsABSTime=1752474518
-#https://live1.pro2cdnlive.com/live/channel15.flv?wsSecret=d9fe63f52c19bf6b60579c57111beaab&wsABSTime=1752474343
-
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 [15 - 29 Juli 2025] 3
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/Fp5tF3yfyh9SwpSlLAaeGA/Fv2lucGIbhPi2caWYvF5Lg/1752585002177/live/dungSD/chunklist.m3u8
-
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 [15 - 29 Juli 2025] 4
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/j8eeSg50CxpyL0Zb36bz4Q/Fv2lucGIbhPi2caWYvF5Lg/1752066050618/live/cunSD/chunklist.m3u8
-
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 [15 - 29 Juli 2025] 5
+#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://encrted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=af717f0a52834020a08b9ac454089b74:b1dcfea43ffe8735b3f2cc7c3ac8c24e
 https://tglmp04.akamaized.net/out/v1/a8aad32fefc2454f81a9998934b2a93f/manifest.mpd
 
-#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23 [15 - 29 Juli 2025] 6
+#EXTINF:-1 group-title="CADANGAN EVENT" tvg-logo="https://encrted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKlZ-iVQvfD50-ei1mVZy2s4IKJQHJA5rkg&s", AFF U-23
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
